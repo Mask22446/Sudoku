@@ -1,2 +1,6 @@
 Just random message.
-Another one.
+<<<<<<< HEAD
+Another one
+=======
+Antoher one
+>>>>>>> b070fc8f231f322a37d42f882b2385a2dc362798
